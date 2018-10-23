@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: commons-cli-1.0.jar braju-1.0.jar colt-1.0.3.jar pal-1.0-S
+ NAPSHOT.jar JSci-1.0.jar jfreechart-1.0.1.jar tar.jar jcommon-1.0.jar
+Created-By: 1.6.0_01 (Sun Microsystems Inc.)
+Main-Class: lc1.dp.appl.DickFormat
+
